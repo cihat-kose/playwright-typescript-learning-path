@@ -1,5 +1,6 @@
 import { Page, Locator } from '@playwright/test';
 
+// Page Object class for GitHub homepage
 export class GithubHomePage {
   private page: Page;
   readonly logo: Locator;
