@@ -1,5 +1,5 @@
 
-# PlaywrightTypeScriptLearn
+# Playwright TypeScript Learn
 
 ![Playwright](https://img.shields.io/badge/Playwright-2D6DB5?style=for-the-badge&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,11 +31,11 @@ A TypeScript-based Playwright project for learning and experimenting with browse
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChatGTHB/PlaywrightTypeScriptLearn.git
+   git clone https://github.com/cihat-kose/playwright-typescript-learn.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd PlaywrightTypeScriptLearn
+   cd playwright-typescript-learn
    ```
 3. Install dependencies:
    ```bash
@@ -75,7 +75,7 @@ npx playwright test tests/training/typescript.spec.ts
 ## 📂 Project Structure
 
 ```
-PlaywrightTypeScriptLearn/
+playwright-typescript-learn/
 ├── node_modules/            # Project dependencies
 ├── test-results/            # Playwright test trace files
 │   ├── tests-aliexpress...  # Trace results for AliExpress tests
