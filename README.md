@@ -1,5 +1,5 @@
 
-# Playwright TypeScript Learn
+# Playwright TypeScript Learning Path
 
 ![Playwright](https://img.shields.io/badge/Playwright-2D6DB5?style=for-the-badge&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,7 +14,7 @@ A TypeScript-based Playwright project for learning and experimenting with browse
 
 - **Playwright Tests**: TypeScript implementation of Playwright for browser automation.
 - **Trace Results**: Includes Playwright trace files for debugging and analysis.
-- **Organized Structure**: Modular test cases for different platforms (e.g., AliExpress, Amazon).
+- **Organized Structure**: Modular test cases for different platforms (e.g., AliExpress, Amazon, GitHub).
 - **Step-by-Step Learning**: Focused on exploring automation through examples.
 
 ---
@@ -31,11 +31,11 @@ A TypeScript-based Playwright project for learning and experimenting with browse
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cihat-kose/playwright-typescript-learn.git
+   git clone https://github.com/cihat-kose/playwright-typescript-learning-path.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd playwright-typescript-learn
+   cd playwright-typescript-learning-path
    ```
 3. Install dependencies:
    ```bash
@@ -75,7 +75,7 @@ npx playwright test tests/training/typescript.spec.ts
 ## 📂 Project Structure
 
 ```
-playwright-typescript-learn/
+playwright-typescript-learning-path/
 ├── node_modules/            # Project dependencies
 ├── test-results/            # Playwright test trace files
 │   ├── tests-aliexpress...  # Trace results for AliExpress tests
